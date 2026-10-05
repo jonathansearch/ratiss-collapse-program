@@ -5,4 +5,4 @@
 [![RATISS Labs](https://img.shields.io/badge/RATISS_Labs-Deep_Tech_Sovereign-06b6d4)](https://github.com/jonathansearch)
 
 # ratiss-collapse-program
-P vs NP comme question physico-philosophique : programme de recherche pour une mathematique de l effondrement — RATIS Labs (Cameroun)
+P vs NP as a physics-philosophy question: a research program for a mathematics of collapse — RATIS Labs (Cameroon)
